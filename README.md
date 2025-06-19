@@ -1,4 +1,4 @@
-# Population at Risk: Fire Hazard Zones in Los Angeles County
+# LA County Fire Risk Dashboard
 
 This interactive web map and dashboard explore how population across Los Angeles County overlaps with wildfire hazard zones.
 
