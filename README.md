@@ -15,7 +15,7 @@ Using **2020 U.S. Census population estimates** and **CAL FIRE’s 2023 Fire Haz
 - [Los Angeles County Census Estimates (2020)](https://data.lacounty.gov)
 
 > **View the Live Dashboard:**  
-> 👉 [https://aichutan.github.io/webmapper](https://aichutan.github.io/webmapper)
+> 👉 [https://aichutan.github.io/la-county-fire-risk-dashboard](https://aichutan.github.io/la-county-fire-risk-dashboard/)
 
 ---
 
