@@ -11,7 +11,7 @@ Using **2020 U.S. Census population estimates** and **CAL FIRE’s 2023 Fire Haz
 - Use visual tools like bar and pie charts to explore proportions and counts
 
 ### Data Sources
-- [CAL FIRE Fire Hazard Severity Zones (2023)](https://osfm.fire.ca.gov/divisions/community-wildfire-preparedness-and-mitigation/wildfire-hazard-severity-zones/)
+- [CAL FIRE Fire Hazard Severity Zones (2023)](https://osfm.fire.ca.gov/what-we-do/community-wildfire-preparedness-and-mitigation/fire-hazard-severity-zones)
 - [Los Angeles County Census Estimates (2020)](https://data.lacounty.gov)
 
 > **View the Live Dashboard:**  
